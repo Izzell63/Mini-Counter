@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(48, 110, 97);
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 15em;
+}
+#countiner{
+    text-align: center;
+    font-size: 3em;
+    color: whitesmoke;
+}
+.but{
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: rgb(97, 155, 255);
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.but:hover{
+    background-color: #005eff;
+}
